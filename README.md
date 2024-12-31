@@ -1,6 +1,6 @@
 # Deskime
 
-![Screenshot](./core/images/screenshot.png)
+![Screenshot](./screenshot.png)
 
 Deskime is a desktop customization application developed in Python.
 
@@ -41,7 +41,7 @@ python setup.py
 
 3. A pop-up app will open. Use this to select your desired settings. Restart your computer for these changes to take place.
 
-![Popup](./core/Images/popup.png)
+![Popup](./popup.png)
 
 ### Customizing Search Options
 
@@ -58,9 +58,3 @@ If you appreciate our initiative, consider buying us a coffee to help keep this 
 
 ### Special Thanks to
 [CodePen User Sarazond](https://codepen.io/sarazond/pen/LYGbwj) for providing the default template.
-
- 
-# Deskime
-# Deskime_Customization
-# Deskime_Customization
-# Deskime-main
