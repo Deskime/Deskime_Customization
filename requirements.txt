@@ -1,0 +1,11 @@
+asteval==1.0.5
+keyboard==0.13.5
+Pillow==11.0.0
+plyer==2.1.0
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+PySide6==6.8.1
+PySide6_Addons==6.8.1
+PySide6_Essentials==6.8.1
+pystray==0.19.5
+pywin32==308
