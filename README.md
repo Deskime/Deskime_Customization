@@ -53,7 +53,7 @@ if query == "shutdown":
 ```
 
 ### Support Us
-If you appreciate our initiative, consider buying us a coffee to help keep this program open-source and accessible to more users.
+If you appreciate our initiative, don't forget to star us, share this to others and donate by opening a discussion at [Deskime-Discussions](https://github.com/Deskime/Deskime_Customization/discussions/1) and and messaging `Donate`.
 <br><br>
 
 ### Special Thanks to
